@@ -1,0 +1,42 @@
+body{
+    background-color: coral;
+    padding: 150px;
+}
+
+.heading{
+          background-color: black;
+          color: white;
+          width: 150px ;
+          margin-left: 150px;
+ }
+
+ .wrapper{
+    background-color: gray;
+    height: 400px;
+    width: 450px;
+    padding: 20px;
+ }
+
+ .input-text{
+    text-align: center;
+ }
+
+ input{
+    height: 20px;
+    width: 250px;
+ }
+
+ button{
+     margin-left: 160px;
+     font-size: 30px;
+     border-radius: 50px;
+     background-image: linear-gradient(blue,red);
+ }
+
+ #result{
+    color:blue;
+    font-weight: bolder;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5rem;
+ }
